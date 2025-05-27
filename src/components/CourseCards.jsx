@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { useState } from 'react';
 
 // Course card component representing a single certification category
@@ -163,6 +164,8 @@ const CourseCards = () => {
 
 export default CourseCards;
 =======
+=======
+>>>>>>> master
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
@@ -414,4 +417,7 @@ export default function InfrastructureGrid() {
     </div>
   );
 }
+<<<<<<< HEAD
 >>>>>>> feature/ui_updated
+=======
+>>>>>>> master

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 import './App.css';
 import HomePage from './components/HomePage.';
@@ -9,6 +10,8 @@ function App() {
 <HomePage/>
  </>
 =======
+=======
+>>>>>>> master
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -36,7 +39,10 @@ function App() {
       </Routes>
       <Footer/>
     </div>
+<<<<<<< HEAD
 >>>>>>> feature/ui_updated
+=======
+>>>>>>> master
   );
 }
 

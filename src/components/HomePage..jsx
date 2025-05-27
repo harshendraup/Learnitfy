@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React from 'react';
  import CourseCards from './CourseCards';
 
@@ -128,6 +129,8 @@ export default function HomePage() {
         .z-index-10 {
           z-index: 10;
 =======
+=======
+>>>>>>> master
 import React, { useState, useEffect } from 'react';
 import CourseCards from './CourseCards';
 import Timeline from './Tmeline';
@@ -298,14 +301,20 @@ function ImageSlider() {
           .custom-search-input {
             font-size: 1rem;
           }
+<<<<<<< HEAD
 >>>>>>> feature/ui_updated
+=======
+>>>>>>> master
         }
       `}</style>
     </div>
   );
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
+=======
+>>>>>>> master
 }
 
 export default function HomePage() {
@@ -401,4 +410,7 @@ export default function HomePage() {
     </div>
   );
 }
+<<<<<<< HEAD
 >>>>>>> feature/ui_updated
+=======
+>>>>>>> master

@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 <<<<<<< HEAD
+<<<<<<< HEAD
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -17,6 +18,8 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 =======
+=======
+>>>>>>> master
 import { BrowserRouter } from 'react-router-dom';
 import App from './App'; 
 console.log('Rendering the application...');
@@ -27,5 +30,9 @@ root.render(
       <App />
     </BrowserRouter>
   </React.StrictMode>
+<<<<<<< HEAD
 );
 >>>>>>> feature/ui_updated
+=======
+);
+>>>>>>> master
